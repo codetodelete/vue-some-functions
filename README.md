@@ -1,5 +1,7 @@
 # vue-some-functions
 
+## I make Some small functions using Vue + Vuetify UI
+
 ## Project setup
 ```
 npm install
